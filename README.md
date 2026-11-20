@@ -1,5 +1,7 @@
 # Monopoly Deal
 
+> **Moved** to [visnup/games](https://github.com/visnup/games/tree/main/apps/monopoly-deal), where it continues. This repository is archived.
+
 Monopoly Deal is Hasbro's card game of Monopoly: 106 cards, no board, no dice, and games that
 last fifteen minutes. You bank money, lay down properties and charge rent like the board game,
 but most of the cards are actions that take from other players: Sly Deal steals a property, Deal
